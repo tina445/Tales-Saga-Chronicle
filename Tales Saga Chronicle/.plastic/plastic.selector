@@ -1,4 +1,0 @@
-repository "Tales Saga Chronicle 2024-12-27_23-50-23/Tales Saga Chronicle@14569254549198@cloud"
-  path "/"
-    br "/main"
-    co "/main"
